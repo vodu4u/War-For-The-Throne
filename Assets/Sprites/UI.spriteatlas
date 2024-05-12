@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d5de3ca51aefaae4f81d85945bcd71f7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 24b3ea704d473cd429556a9f1742cb3e: 21300000
+    - 9ea4e062423e3a04489646424933b91b: 21300000
+    - cf53d595471baca4ca24d4a71c02a7ef: 21300000
+    - 92a950e52f6b9834784aef913afa3709: 21300000
+    - df858c77b1dada24faa83a0e58a0799e: 21300000
+    - 715db75d1f8048a40b33336d66489183: 21300000
+    - 5969c46eb2dd87b46b8d218959d12f76: 21300000
+    - f6fa32ae04c1eab4986c7653b71ea0af: 21300000
+    - 817de3aef36bd3249a89abe272240e29: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 24b3ea704d473cd429556a9f1742cb3e, type: 3}
+  - {fileID: 21300000, guid: 9ea4e062423e3a04489646424933b91b, type: 3}
+  - {fileID: 21300000, guid: cf53d595471baca4ca24d4a71c02a7ef, type: 3}
+  - {fileID: 21300000, guid: 92a950e52f6b9834784aef913afa3709, type: 3}
+  - {fileID: 21300000, guid: df858c77b1dada24faa83a0e58a0799e, type: 3}
+  - {fileID: 21300000, guid: 715db75d1f8048a40b33336d66489183, type: 3}
+  - {fileID: 21300000, guid: 5969c46eb2dd87b46b8d218959d12f76, type: 3}
+  - {fileID: 21300000, guid: f6fa32ae04c1eab4986c7653b71ea0af, type: 3}
+  - {fileID: 21300000, guid: 817de3aef36bd3249a89abe272240e29, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PanelBackground
+  - Arrow
+  - Health
+  - Circle
+  - 1x1
+  - InfoPanelBackgrond
+  - Cell
+  - Pause
+  - ButtonBackground
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

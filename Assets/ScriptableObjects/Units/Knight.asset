@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4464d10b63701a4ebada1c37000bec5, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: "\u0420\u044B\u0446\u0430\u0440\u044C"
+  <Health>k__BackingField: 10
+  <Damage>k__BackingField: 5
+  <AttackRange>k__BackingField: 1
+  <HeightOffset>k__BackingField: -1.5
+  <Prefab>k__BackingField: {fileID: 1752251464915076621, guid: 7e3fa677baeed974d8e8d90cce18970d, type: 3}
+  <Preview>k__BackingField: {fileID: 21300000, guid: c71d98c67a8dbef488d4668e7d273aa8, type: 3}
+  <InspirationWeaponColor>k__BackingField: {r: 1, g: 0.73333335, b: 0, a: 1}
+  <Type>k__BackingField: 0
